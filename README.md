@@ -5,7 +5,7 @@
 Me chamo Luan Acuyo Braz, tenho 21 anos e sou natural de Sorocaba, SP. Concluí o ensino médio no colégio Objetivo e sou tecnólogo em Análise e Desenvolvimento de Sistemas (ADS). Sou apaixonado por tecnologia e estou sempre buscando aprender e me desenvolver como programador
 
 <p align="left">
-    <a href="https://www.youtube.com/@luanbraz?sub_confirmation=1">
+    <a href="https://www.youtube.com/@devluanbraz?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
