@@ -152,12 +152,12 @@ Me chamo Luan Acuyo Braz, tenho 21 anos e sou natural de Sorocaba, SP. Concluí 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<h3><code>ryan@github ~ $ whoami</code></h3>
+<h3><code>luanbraz@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td valign="top"><img src="./ryan-ascii.svg" width="440" alt="Ryan Rodrigues — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="440" alt="Ryan Rodrigues — experience, stack, highlights, links" /></td>
+<td valign="top"><img src="./ryan-ascii.svg" width="430" alt="Ryan Rodrigues — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="430" alt="Ryan Rodrigues — experience, stack, highlights, links" /></td>
 </tr>
 </table>
 
