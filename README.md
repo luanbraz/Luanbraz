@@ -162,7 +162,7 @@ Me chamo Luan Acuyo Braz, tenho 21 anos e sou natural de Sorocaba, SP. Concluí 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 8px;" 
     src="https://github-readme-stats.vercel.app/api?username=luanbraz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
