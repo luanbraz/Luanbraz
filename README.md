@@ -151,6 +151,7 @@ Me chamo Luan Acuyo Braz, tenho 21 anos e sou natural de Sorocaba, SP. Concluí 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+</p>
 <table>
 <tr>
     
