@@ -157,7 +157,7 @@ Me chamo Luan Acuyo Braz, tenho 21 anos e sou natural de Sorocaba, SP. Concluí 
 <table>
 <tr>
 <td valign="top"><img src="./luan-ascii.svg" width="430" alt="Luan Braz — ASCII portrait" /></td>
-<td alt="Luan Acuyo Braz – experiência, conjunto de habilidades, destaques, links" /></td>
+<td valign="top"><img src="./info-card.svg" width="430" alt="Luan Acuyo Braz – experiência, conjunto de habilidades, destaques, links"/></td>
 </tr>
 </table>
 
